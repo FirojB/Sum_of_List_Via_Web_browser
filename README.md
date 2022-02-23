@@ -1,1 +1,1 @@
-# Sum_of_List_Via_Web_browser
+# Creating a REST endpoint that returns the sum of a list of numbers
